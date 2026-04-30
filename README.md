@@ -2,7 +2,8 @@
 
 ## Course Overview
 This repository contains my coursework, exercises, and projects from the 
-**Applied Deep Learning in Physics** course (2nd Semester, University).
+**Applied Deep Learning in Physics** course 
+(2nd Semester, TU Dortmund University, Germany).
 
 The course focuses on state-of-the-art deep learning techniques applied 
 to real-world physics problems, using the TensorFlow/Keras framework.
