@@ -26,12 +26,6 @@ to real-world physics problems, using the TensorFlow/Keras framework.
 - TensorFlow / Keras
 - Jupyter Notebooks
 
-## Learning Outcomes
-By the end of this course, I am able to:
-- Summarize and apply core deep learning concepts
-- Design and optimize neural network architectures for physics problems
-- Verify model results against experimental data
-
 ## Repository Structure
 Each folder represents a separate project or exercise from the course.
 
